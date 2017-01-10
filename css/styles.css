@@ -1,0 +1,12 @@
+#initially-hide {
+  display: none;
+}
+
+.click-slide, .click-show, .click-fade {
+  cursor: pointer;
+  color: #08c;
+}
+
+.click-slide:hover, .click-show:hover, .click-fade:hover {
+  text-decoration: underline;
+}
